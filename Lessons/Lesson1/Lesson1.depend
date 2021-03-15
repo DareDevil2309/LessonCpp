@@ -2,6 +2,9 @@
 1615641839 source:/home/vlad/C++/Lessons/Lesson1/main.cpp
 	<iostream>
 
-1615644635 source:/home/daredevil/Repos/LessonCpp/Lessons/Lesson1/main.cpp
+1615821875 source:/home/daredevil/Repos/LessonCpp/Lessons/Lesson1/main.cpp
 	<iostream>
+	<iomanip>
+	<cmath>
+	<ctype.h>
 
